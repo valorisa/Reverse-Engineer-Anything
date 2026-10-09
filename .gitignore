@@ -1,0 +1,9 @@
+# Éditeurs et système
+*.swp
+*~
+.DS_Store
+
+# Divers
+*.log
+.env
+node_modules/
